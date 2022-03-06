@@ -1,0 +1,9 @@
+E:\CongCu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\CongCu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\CongCu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\CongCu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\CongCu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\CongCu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\NguyenThanhTuan.csproj.GenerateResource.cache
+E:\CongCu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\NguyenThanhTuan.csproj.CoreCompileInputs.cache
+E:\CongCu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\CongCu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
